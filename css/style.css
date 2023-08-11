@@ -151,6 +151,7 @@ header nav .form i {
     min-height: 100vh;
     background-image: url("../images/Landing.jpg");
     background-size: cover;
+    background-position: center;
     position: relative;
 }
 .landing .overlay {
